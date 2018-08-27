@@ -1,0 +1,3 @@
+```
+GOOS=darwin GOARCH=386 go build main.go
+```
